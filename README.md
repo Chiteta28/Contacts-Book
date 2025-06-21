@@ -1,5 +1,5 @@
 📒 ContactBook
-A simple and intuitive ContactBook application to store, manage, and update your personal or professional contacts with ease. Designed with clean code and a user-friendly interface, this project is perfect for learning, showcasing skills, or adapting into real-world applications.
+A simple and intuitive ContactBook application to store, manage, and update my personal or professional contacts with ease. Designed with clean code and a user-friendly interface, this project is perfect for learning, showcasing skills, or adapting into real-world applications.
 
 🚀 Features
 Add new contacts with name, phone, email, and address
